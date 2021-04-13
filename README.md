@@ -3,7 +3,7 @@ Author: Favor Fasunwon
 SID: 200384651
 Date: December 7th, 2020
 
-This entire progrsm was coded using Cortex-M3 Arm Assembly
+This entire program was coded using Cortex-M3 Arm Assembly
 
 1) WHAT THE GAME IS: 
 	This LED Whack-a-mole game has 4 LEDs with 4 corresponding pushbuttons. 
@@ -43,19 +43,33 @@ This entire progrsm was coded using Cortex-M3 Arm Assembly
 	SCORING SYSTEM : 
 		LED SEQUENCE	SCORE		
 		    	0001	    1
+			
 		    	0010	    2
+			
 		    	0011	    3
+			
 		    	0100	    4
+			
 		    	0101	    5
+			
 		    	0110	    6
+			
 		    	0111	    7
+			
 			1000	    8
+			
 			    1001	    9	
+			    
 			    1010	   10
+			    
 			    1011	   11
+			    
 			    1100	   12
+			    
 			    1101	   13
+			    
 			    1110	   14
+			    
 			    1111	   15
 
 	*Pressing the reset button will return the player to step a) regardless where
