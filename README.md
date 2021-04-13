@@ -41,7 +41,8 @@ This entire program was coded using Cortex-M3 Arm Assembly
 
 
 	SCORING SYSTEM : 
-		LED SEQUENCE	SCORE		
+		LED SEQUENCE	SCORE
+		
 		    	0001	    1
 			
 		    	0010	    2
@@ -58,19 +59,19 @@ This entire program was coded using Cortex-M3 Arm Assembly
 			
 			1000	    8
 			
-			    1001	    9	
+			1001	    9	
 			    
-			    1010	   10
+			1010	   10
 			    
-			    1011	   11
+			1011	   11
 			    
-			    1100	   12
+			1100	   12
 			    
-			    1101	   13
+			1101	   13
 			    
-			    1110	   14
+			1110	   14
 			    
-			    1111	   15
+			1111	   15
 
 	*Pressing the reset button will return the player to step a) regardless where
 	 they currently are in the game.  
