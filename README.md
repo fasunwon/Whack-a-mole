@@ -3,6 +3,8 @@ Author: Favor Fasunwon
 SID: 200384651
 Date: December 7th, 2020
 
+This entire progrsm was coded using Cortex-M3 Arm Assembly
+
 1) WHAT THE GAME IS: 
 	This LED Whack-a-mole game has 4 LEDs with 4 corresponding pushbuttons. 
 	When the game is played, an LED will light up and the player will have to 
@@ -47,7 +49,7 @@ Date: December 7th, 2020
 		    	0101	    5
 		    	0110	    6
 		    	0111	    7
-			    1000	    8
+			1000	    8
 			    1001	    9	
 			    1010	   10
 			    1011	   11
