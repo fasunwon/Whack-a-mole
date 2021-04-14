@@ -94,3 +94,5 @@ This entire program was coded using Cortex-M3 Arm Assembly
    if you dont want to wait for the winning and losing light sequence, all you have to do is decrease the WINNING and LOSING_TIME values.
    *i dont recommend any of these values, excluding NUM_CYCLES, to be below 500000 because it will be impossible to play the game, unless 
     you are the flash :-)
+    
+    Demo of Whack-a-mole game (https://regina-moodle-prod.kaf.ca.kaltura.com/media/0_4vxcjhpi)
